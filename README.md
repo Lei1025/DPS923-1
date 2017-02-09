@@ -2,8 +2,8 @@
 Language: Swift
 
 ## Apps
-* AllAboutMe <br />
+* __AllAboutMe__ <br />
 A simple app which takes a use of Segments, Lables, TextViews, ImageViews, and Slider.
-* LayoutFun <br />
+* __LayoutFun__ <br />
 Basically, a practice with layouts in Xcode. 
 See [screenshots](./LayoutFun/Screenshots)
