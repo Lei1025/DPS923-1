@@ -50,11 +50,12 @@ class PlayerList: UITableViewController {
         // Extracting the player's name
         let playerName = player["Player"] as! String
         
-        let teamName = player["Team"] as! String
-        cell.imageView?.image = UIImage(named: teamName)
-        
         // Setting the table view cell text
         cell.textLabel?.text = playerName
+        
+        // Setting the table view cell icon
+        let teamName = player["Team"] as! String
+        cell.imageView?.image = UIImage(named: teamName)
 
         return cell
     }
