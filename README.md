@@ -9,4 +9,6 @@ Basically, a practice with layouts in Xcode. <br />
 See [screenshots](./LayoutFun/Screenshots) 
 * __QBStats__ <br />
 Working with UITableViews, Navigation, and loading data from a file
+* __ICTCurric__ <br />
+Working with UITableViews, Navigation, and CoreData
 
