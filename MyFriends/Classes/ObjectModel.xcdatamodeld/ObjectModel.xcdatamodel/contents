@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="11759" systemVersion="15G1217" minimumToolsVersion="Xcode 4.3" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Example" representedClassName="Example" syncable="YES" codeGenerationType="category">
+        <attribute name="attribute1" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="attribute2" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+    </entity>
+    <entity name="Friend" representedClassName="Friend" syncable="YES" codeGenerationType="category">
+        <attribute name="firstName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lastName" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Example" positionX="-63" positionY="-18" width="128" height="75"/>
+        <element name="Friend" positionX="171" positionY="-21" width="128" height="73"/>
+    </elements>
+</model>
