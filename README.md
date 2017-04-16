@@ -13,7 +13,7 @@ Working with UITableViews, Navigation, and loading data from a file
 Working with UITableViews, Navigation, and CoreData
 * __MusicFinder__ <br />
 Working with iTunes API, WebRequest etc
-* __Assignement 7__ <br />
+* __Assignment 7__ <br />
 3 apps: PlanTour, Players, Courses <br />
 (unfinished)
 * __MyFriends__ <br />
